@@ -1,15 +1,13 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15792
-Fork on GitHub4359
-<h1 align="center">Hi 👋, I'm David Akim</h1>
+<!--<h1 align="center">Hi 👋, I'm David Akim</h1>-->
+<h1 align="center">Hi, I'm David Akim</h1>
+
 <h3 align="center">A web developer with a background in Electrical and Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-001&label=Profile%20views&color=0e75b6&style=flat" alt="david-001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-001" alt="david-001" /></a> </p>
 
-- 🔭 I’m currently working on [bitcoin](https://github.com/david-001/slackbot-agebot)
+<!-- 🔭 I’m currently working on [bitcoin](https://github.com/david-001/slackbot-agebot)
 
 - 🌱 I’m currently learning **react**
 
@@ -17,11 +15,13 @@ Fork on GitHub4359
 
 - 🤝 I’m looking for help with [ecommerce](https://github.com/david-001/slackbot-agebot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/david-001/slackbot-agebot](https://github.com/david-001/slackbot-agebot)
+- 💬 Ask me about **react**
+
+-->
+
+- 👨‍💻 All of my projects are available at [https://david-001.github.io/website/](https://github.com/david-001/slackbot-agebothttps://david-001.github.io/website/)
 
 - 📝 I have written articles in [https://github.com/david-001/slackbot-agebot](https://github.com/david-001/slackbot-agebot)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **davidjohnakim@hotmail.com**
 
