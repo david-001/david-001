@@ -8,9 +8,9 @@
 <br />
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-david-001.vercel.app/api?username=david-001&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Anurag's GitHub stats-Dark](https://github-readme-stats-david-001.vercel.app/api?username=david-001&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Anurag's GitHub stats](https://github-readme-stats-david-001.vercel.app/api?username=david-001&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats-david-001.vercel.app/api/top-langs/?username=david-001)]
+![Top Langs](https://github-readme-stats-david-001.vercel.app/api/top-langs/?username=david-001)
 <br />
-[![Top Langs](https://github-readme-stats-david-001.vercel.app/api/top-langs/?username=david-001&size_weight=0.5&count_weight=0.5)]
+![Top Langs](https://github-readme-stats-david-001.vercel.app/api/top-langs/?username=david-001&size_weight=0.5&count_weight=0.5)
