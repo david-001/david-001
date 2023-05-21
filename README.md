@@ -17,15 +17,16 @@
 
 - 💬 Ask me about **react**
 
+- 📄 Know about my experiences [https://github.com/david-001/slackbot-agebot](https://github.com/david-001/slackbot-agebot)
+
 -->
 
 - 👨‍💻 All of my projects are available at [https://david-001.github.io/website/](https://github.com/david-001/slackbot-agebothttps://david-001.github.io/website/)
 
-- 📝 I have written articles in [https://github.com/david-001/slackbot-agebot](https://github.com/david-001/slackbot-agebot)
+- 📝 I have written articles in [https://medium.com/@davidjohnakim](https://medium.com/@davidjohnakim)
 
 - 📫 How to reach me **davidjohnakim@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/david-001/slackbot-agebot](https://github.com/david-001/slackbot-agebot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
