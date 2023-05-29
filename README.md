@@ -21,12 +21,11 @@
 
 -->
 
-- 👨‍💻 All of my projects are available at [https://david-001.github.io/website/](https://github.com/david-001/slackbot-agebothttps://david-001.github.io/website/)
+- 👨‍💻 All of my projects are available at [https://david-001.github.io/website/](https://david-001.github.io/website/)
 
 - 📝 I have written articles in [https://medium.com/@davidjohnakim](https://medium.com/@davidjohnakim)
 
 - 📫 How to reach me **davidjohnakim@hotmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,5 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-001&show_icons=true&locale=en" alt="david-001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-001&" alt="david-001" /></p>
-
-
