@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-001&show_icons=true&locale=en" alt="david-001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-001&" alt="david-001" /></p>
+
+[![An image of @david001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/david001)](https://holopin.io/@david001)
