@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm David Akim</h1>-->
 <h1 align="center">Hi, I'm David Akim</h1>
 
-<h3 align="center">A web developer with a background in Electrical and Computer Engineering</h3>
+<h3 align="center">A software developer with a background in Electrical and Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-001&label=Profile%20views&color=0e75b6&style=flat" alt="david-001" /> </p>
 
